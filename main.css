@@ -1,0 +1,10 @@
+.img {
+    margin: 300px;
+    transition-duration: 1s;
+    transition-timing-function: ease-in;
+    transform: translate(300px, 100px);
+}
+
+.img:hover {
+    transform: scale(2);
+}
